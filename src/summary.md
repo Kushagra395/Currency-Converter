@@ -1,0 +1,2 @@
+1. custom hook bananne ke liye haam present hook ka use karte hi hai and hamare hook sai iss project mai haam api fetch karwa rehe baaki sabh export and all same hi rehendenge
+ - fetch mai haam .then()ka use karke changing karsakte hai mtb kuch kaam karana padega was wo janana hai
